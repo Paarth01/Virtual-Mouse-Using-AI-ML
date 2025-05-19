@@ -14,13 +14,6 @@ A touchless virtual mouse system using computer vision and artificial intelligen
 
 ---
 
-## 📸 Demo
-
-<!-- Replace the link below with your actual demo image or GIF -->
-![Demo GIF](demo/demo.gif)
-
----
-
 ## 🧠 How It Works
 
 1. Capture video input from the webcam using OpenCV.
